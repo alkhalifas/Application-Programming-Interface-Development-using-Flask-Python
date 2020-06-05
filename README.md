@@ -9,7 +9,7 @@ This repository contains:
 ![alt text](https://github.com/alkhalifas/flask-web-api/blob/master/media/home.PNG?raw=true)
 
 ### Example of Returned Data:
-![alt text]()
+![alt text](https://github.com/alkhalifas/flask-web-api/blob/master/media/results.PNG?raw=true)
 
 ## Install
 
