@@ -5,6 +5,10 @@ This repository contains:
 2. csv_2_db.py - A Python file with some basic Sqlite3 helper functions.
 3. data - A folder containing the CSV file and sqlite3 database.
 
+### Check out the Full Article on Medium.com
+
+https://towardsdatascience.com/launch-your-own-rest-api-using-flask-python-in-7-minutes-c4373eb34239
+
 ### Example of the Home Page:
 ![alt text](https://github.com/alkhalifas/flask-web-api/blob/master/media/home.PNG?raw=true)
 
