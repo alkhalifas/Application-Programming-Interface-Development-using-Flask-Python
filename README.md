@@ -7,6 +7,8 @@ This repository contains:
 
 ### Check out the Full Article on Medium.com
 
+![alt text](https://miro.medium.com/max/550/1*ZU1EQ7tYeQNQlhOhyonHFA.png)
+
 https://towardsdatascience.com/launch-your-own-rest-api-using-flask-python-in-7-minutes-c4373eb34239
 
 ### Example of the Home Page:
